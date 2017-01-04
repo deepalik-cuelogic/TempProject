@@ -6,5 +6,6 @@
 	<body>
 		<p>This is testing project....</p>
 		<div>checking for merging..</div>
+		Some text added...
 	</body>
 </html>
